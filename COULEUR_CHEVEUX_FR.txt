@@ -1,0 +1,10 @@
+﻿auburn
+blanc
+blond
+brun
+châtain
+chatain
+cuivr
+gris
+noir
+roux
