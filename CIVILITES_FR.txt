@@ -1,0 +1,47 @@
+Baron
+Bey
+Calife
+Cheikh
+Chérif
+Comtesse
+Docteur
+Dr
+Duchesse
+Emir
+Émir
+Lady
+Lord
+M.
+Madame
+Mademoiselle
+Maitre
+Maître
+Marquis
+Mesdames
+Messeigneurs
+Messieurs
+Mlle
+MM.
+Mme
+Mmes
+Monseigneur
+Monsieur
+Mr
+Mrs
+Parent 1
+Parent 2
+Parent1
+Parent2
+Pr
+Professeur
+Râja
+Révérend
+S.A.
+S.É.
+S.M.
+Sa Majesté
+Sa Sainteté
+Son Altesse
+Son Excellence
+Vicomte
+Vve

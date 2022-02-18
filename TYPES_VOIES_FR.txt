@@ -1,0 +1,15 @@
+avenue
+av.
+boulevard
+bvd
+chemin
+lotissement
+impasse
+passage
+place
+quai
+quartier
+route
+rue
+ruelle
+square
